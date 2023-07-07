@@ -1,0 +1,79 @@
+2023-07-06 21:08:06.641 - Create display
+2023-07-06 21:08:06.751 - DBeaver 21.3.5.202202200327 is starting
+2023-07-06 21:08:06.751 - OS: Windows 10 10.0 (amd64)
+2023-07-06 21:08:06.751 - Java version: 11.0.12 by Eclipse Foundation (64bit)
+2023-07-06 21:08:06.751 - Install path: 'C:\web_1900_jss\dbms\oracle\resource\dbeaver'
+2023-07-06 21:08:06.751 - Instance path: 'file:/C:/web_1900_jss/dbms/oracle/workspace/'
+2023-07-06 21:08:06.751 - Memory available 64Mb/1024Mb
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.76.202202200327]
+2023-07-06 21:08:06.766 - Starting RMI server at 23928
+2023-07-06 21:08:06.813 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.16.300.v20211102-0939]
+> Start Eclipse 응용 프로그램 서비스 [org.eclipse.e4.core.services 2.3.100.v20210910-0640]
+> Start Eclipse 사용자 인터페이스 응용 프로그램 서비스 [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start EMF XML/XMI 퍼시스턴스 [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse CSS SWT 테마 지원 [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.4.400.v20211102-0453]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.15.300.v20211102-1716]
+> Start Eclipse 바인딩 지원 [org.eclipse.e4.ui.bindings 0.13.100.v20210722-1426]
+> Start Eclipse 의존성 삽입 확장 [org.eclipse.e4.core.di.extensions 0.17.100.v20210910-0640]
+> Start Eclipse CSS SWT 지원 [org.eclipse.e4.ui.css.swt 0.14.400.v20211026-1534]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.91.202202200327]
+2023-07-06 21:08:08.241 - Configure workbench window
+> Start 도움말 시스템 코어 [org.eclipse.help 3.9.100.v20210721-0601]
+2023-07-06 21:08:08.366 - Create actions
+2023-07-06 21:08:08.382 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-07-06 21:08:08.382 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-07-06 21:08:08.382 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-07-06 21:08:08.726 - Initialize workbench window
+2023-07-06 21:08:08.742 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.14.300.v20210913-0815]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.16.300.v20211119-1032]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.76.202202200327]
+> Start Equinox Java 인증 및 권한 부여 서비스 (JAAS) [org.eclipse.equinox.security 1.3.800.v20211021-1418]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.4.0.v20210426-0838]
+> Start 인터넷 연결 관리 [org.eclipse.core.net 1.3.1100.v20210424-0724]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.66.202202200327]
+2023-07-06 21:08:09.931 - Loading user drivers configuration from 'C:\web_1900_jss\dbms\oracle\workspace\.metadata\.plugins\org.jkiss.dbeaver.core\drivers.xml'
+2023-07-06 21:08:09.947 - Total database drivers: 98 (98)
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.113.202202200327]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.82.202202200327]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.76.202202200327]
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20220207122412]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20220207122412]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.36.202202200327]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.36.202202200327]
+2023-07-06 21:08:10.537 - Connect with 'localhost' (oracle_thin-186925829a3-418c4b2decc41ae)
+> Start DBeaver Oracle Support [org.jkiss.dbeaver.ext.oracle 2.1.161.202202200327]
+2023-07-06 21:08:10.584 - Execution context opened (localhost; Main; 0)
+2023-07-06 21:08:11.397 - Execution context opened (localhost; Metadata; 1)
+2023-07-06 21:08:11.460 - String index out of range: -1
+2023-07-06 21:08:11.491 - Connected (oracle_thin-186925829a3-418c4b2decc41ae, Oracle JDBC driver [11.2.0.2.0])
+2023-07-06 21:08:12.774 - Open [https://dbeaver.io/product/version.xml]
+2023-07-06 21:08:12.962 - Can't get column 'EXTERNAL_NAME': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'ACCOUNT_STATUS': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'LOCK_DATE': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'EXPIRY_DATE': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'DEFAULT_TABLESPACE': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'TEMPORARY_TABLESPACE': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'PROFILE': 부적합한 열 이름
+2023-07-06 21:08:12.962 - Can't get column 'INITIAL_RSRC_CONSUMER_GROUP': 부적합한 열 이름
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.9.200.v20211013-1022]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.6.1000.v20201020-1107]
+> Start 콘솔 [org.eclipse.ui.console 3.11.100.v20210721-1355]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.18.300.v20211117-1829]
+2023-07-06 21:08:23.343 - Connect with 'localhost' (oracle_thin-1882d277821-1b4b2204b2a706eb)
+2023-07-06 21:08:23.359 - Execution context opened (localhost; Main; 2)
+2023-07-06 21:08:23.422 - Execution context opened (localhost; Metadata; 3)
+2023-07-06 21:08:23.550 - String index out of range: -1
+2023-07-06 21:08:23.564 - Connected (oracle_thin-1882d277821-1b4b2204b2a706eb, Oracle JDBC driver [11.2.0.2.0])
+2023-07-06 21:08:23.580 - Execution context opened (localhost; SQLEditor <Answer.sql>; 4)
+2023-07-06 21:08:46.474 - Execution context opened (localhost; SQLEditor <Dorancomment.sql>; 5)
+2023-07-07 11:19:25.855 - System suspend detected! Reinitialize all remote connections.
+2023-07-07 12:18:01.868 - System suspend detected! Reinitialize all remote connections.
+2023-07-07 14:01:41.497 - Execution context opened (localhost; SQLEditor <Savinglevel.sql>; 6)
+2023-07-07 14:01:48.571 - Execution context opened (localhost; SQLEditor <Inquireboard.sql>; 7)
+2023-07-07 14:48:04.387 - Execution context opened (localhost; SQLEditor <Saving.sql>; 8)
+2023-07-07 14:55:48.360 - Execution context opened (localhost; SQLEditor <Item.sql>; 9)
+2023-07-07 19:05:05.882 - System suspend detected! Reinitialize all remote connections.

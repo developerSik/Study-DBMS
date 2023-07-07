@@ -1,0 +1,58 @@
+{
+	"folders": {},
+	"connections": {
+		"oracle_thin-1882d277821-1b4b2204b2a706eb": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"provider-properties": {
+					"show-only-one-schema@": "false",
+					"@dbeaver-check-schema-content@": "false",
+					"@dbeaver-always-show-dba@": "false",
+					"@dbeaver-always-use-dba-views@": "false",
+					"@dbeaver-meta-use-sys-schema@": "false",
+					"@dbeaver-meta-use-simple-constraints@": "false",
+					"@dbeaver-use-rule-hint@": "false",
+					"@dbeaver-use-meta-optimizer@": "false",
+					"@dbeaver-meta-use-alternative-table-query@": "false",
+					"oracle.meta-search-in-synonyms": "false",
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native",
+				"handlers": {}
+			}
+		}
+	},
+	"virtual-models": {
+		"oracle_thin-1882d277821-1b4b2204b2a706eb": {
+			"HR": {
+				"@properties": {
+					"erd.diagram.state": {
+						"serialized": "<diagram version=\"1\" name=\"empty\" time=\"202305182222\"><entities><data-source id=\"oracle_thin-1882d277821-1b4b2204b2a706eb\"><entity id=\"1\" name=\"ANSWER\" fq-name=\"HR.ANSWER\" order=\"0\" x=\"20\" y=\"1565\"><path name=\"HR\"/></entity><entity id=\"2\" name=\"COUNTRIES\" fq-name=\"HR.COUNTRIES\" order=\"1\" x=\"1025\" y=\"93\"><path name=\"HR\"/></entity><entity id=\"3\" name=\"DEPARTMENTS\" fq-name=\"HR.DEPARTMENTS\" order=\"2\" x=\"557\" y=\"79\"><path name=\"HR\"/></entity><entity id=\"4\" name=\"DORANBOARD\" fq-name=\"HR.DORANBOARD\" order=\"3\" x=\"257\" y=\"696\"><path name=\"HR\"/></entity><entity id=\"5\" name=\"DORANCOMMENT\" fq-name=\"HR.DORANCOMMENT\" order=\"4\" x=\"20\" y=\"738\"><path name=\"HR\"/></entity><entity id=\"6\" name=\"DORANFILE\" fq-name=\"HR.DORANFILE\" order=\"5\" x=\"20\" y=\"607\"><path name=\"HR\"/></entity><entity id=\"7\" name=\"EMPLOYEES\" fq-name=\"HR.EMPLOYEES\" order=\"6\" x=\"257\" y=\"84\"><path name=\"HR\"/></entity><entity id=\"8\" name=\"EMP_DETAILS_VIEW\" fq-name=\"HR.EMP_DETAILS_VIEW\" order=\"7\" x=\"557\" y=\"2155\"><path name=\"HR\"/></entity><entity id=\"9\" name=\"FILES\" fq-name=\"HR.FILES\" order=\"8\" x=\"257\" y=\"509\"><path name=\"HR\"/></entity><entity id=\"10\" name=\"INQUIRE_BOARD\" fq-name=\"HR.INQUIRE_BOARD\" order=\"9\" x=\"257\" y=\"1509\"><path name=\"HR\"/></entity><entity id=\"11\" name=\"ITEM\" fq-name=\"HR.ITEM\" order=\"10\" x=\"557\" y=\"738\"><path name=\"HR\"/></entity><entity id=\"12\" name=\"ITEMFILE\" fq-name=\"HR.ITEMFILE\" order=\"11\" x=\"20\" y=\"428\"><path name=\"HR\"/></entity><entity id=\"13\" name=\"JOBS\" fq-name=\"HR.JOBS\" order=\"12\" x=\"557\" y=\"379\"><path name=\"HR\"/></entity><entity id=\"14\" name=\"JOB_HISTORY\" fq-name=\"HR.JOB_HISTORY\" order=\"13\" x=\"20\" y=\"168\"><path name=\"HR\"/></entity><entity id=\"15\" name=\"LIKES\" fq-name=\"HR.LIKES\" order=\"14\" x=\"257\" y=\"1350\"><path name=\"HR\"/></entity><entity id=\"16\" name=\"LOCATIONS\" fq-name=\"HR.LOCATIONS\" order=\"15\" x=\"806\" y=\"51\"><path name=\"HR\"/></entity><entity id=\"17\" name=\"ORDERS\" fq-name=\"HR.ORDERS\" order=\"16\" x=\"257\" y=\"995\"><path name=\"HR\"/></entity><entity id=\"18\" name=\"REVIEW\" fq-name=\"HR.REVIEW\" order=\"17\" x=\"20\" y=\"1065\"><path name=\"HR\"/></entity><entity id=\"19\" name=\"SAVING\" fq-name=\"HR.SAVING\" order=\"18\" x=\"257\" y=\"1780\"><path name=\"HR\"/></entity><entity id=\"20\" name=\"SAVINGLEVEL\" fq-name=\"HR.SAVINGLEVEL\" order=\"19\" x=\"806\" y=\"1049\"><path name=\"HR\"/></entity><entity id=\"21\" name=\"TBL_MEMBER\" fq-name=\"HR.TBL_MEMBER\" order=\"20\" x=\"557\" y=\"2023\"><path name=\"HR\"/></entity><entity id=\"22\" name=\"TBL_ORDER\" fq-name=\"HR.TBL_ORDER\" order=\"21\" x=\"257\" y=\"2023\"><path name=\"HR\"/></entity><entity id=\"23\" name=\"TBL_PAY\" fq-name=\"HR.TBL_PAY\" order=\"22\" x=\"20\" y=\"2023\"><path name=\"HR\"/></entity><entity id=\"24\" name=\"TBL_POST\" fq-name=\"HR.TBL_POST\" order=\"23\" x=\"257\" y=\"2295\"><path name=\"HR\"/></entity><entity id=\"25\" name=\"TBL_PRODUCT\" fq-name=\"HR.TBL_PRODUCT\" order=\"24\" x=\"20\" y=\"2323\"><path name=\"HR\"/></entity><entity id=\"26\" name=\"USERS\" fq-name=\"HR.USERS\" order=\"25\" border-width=\"3\" x=\"580\" y=\"1243\"><path name=\"HR\"/></entity></data-source></entities><relations><relation name=\"LOC_C_ID_FK\" fq-name=\"HR.LOCATIONS.LOC_C_ID_FK\" type=\"fk\" pk-ref=\"2\" fk-ref=\"16\"/><relation name=\"EMP_DEPT_FK\" fq-name=\"HR.EMPLOYEES.EMP_DEPT_FK\" type=\"fk\" pk-ref=\"3\" fk-ref=\"7\"/><relation name=\"JHIST_DEPT_FK\" fq-name=\"HR.JOB_HISTORY.JHIST_DEPT_FK\" type=\"fk\" pk-ref=\"3\" fk-ref=\"14\"/><relation name=\"FK_DORANCOMMENT_DORANBOARD\" fq-name=\"HR.DORANCOMMENT.FK_DORANCOMMENT_DORANBOARD\" type=\"fk\" pk-ref=\"4\" fk-ref=\"5\"/><relation name=\"FK_DORANFILE_DORANBOARD\" fq-name=\"HR.DORANFILE.FK_DORANFILE_DORANBOARD\" type=\"fk\" pk-ref=\"4\" fk-ref=\"6\"/><relation name=\"DEPT_MGR_FK\" fq-name=\"HR.DEPARTMENTS.DEPT_MGR_FK\" type=\"fk\" pk-ref=\"7\" fk-ref=\"3\"/><relation name=\"EMP_MANAGER_FK\" fq-name=\"HR.EMPLOYEES.EMP_MANAGER_FK\" type=\"fk\" pk-ref=\"7\" fk-ref=\"7\"><bend type=\"rel\" x=\"494\" y=\"436\"/><bend type=\"rel\" x=\"352\" y=\"524\"/></relation><relation name=\"JHIST_EMP_FK\" fq-name=\"HR.JOB_HISTORY.JHIST_EMP_FK\" type=\"fk\" pk-ref=\"7\" fk-ref=\"14\"/><relation name=\"FK_DORANFILE_FILES\" fq-name=\"HR.DORANFILE.FK_DORANFILE_FILES\" type=\"fk\" pk-ref=\"9\" fk-ref=\"6\"/><relation name=\"FK_ITEMFILE_FILES\" fq-name=\"HR.ITEMFILE.FK_ITEMFILE_FILES\" type=\"fk\" pk-ref=\"9\" fk-ref=\"12\"/><relation name=\"FK_ANSWER_INQUIRE\" fq-name=\"HR.ANSWER.FK_ANSWER_INQUIRE\" type=\"fk\" pk-ref=\"10\" fk-ref=\"1\"/><relation name=\"FK_DORANBOARD_ITEM\" fq-name=\"HR.DORANBOARD.FK_DORANBOARD_ITEM\" type=\"fk\" pk-ref=\"11\" fk-ref=\"4\"/><relation name=\"FK_ITEMFILE_ITEM\" fq-name=\"HR.ITEMFILE.FK_ITEMFILE_ITEM\" type=\"fk\" pk-ref=\"11\" fk-ref=\"12\"/><relation name=\"FK_LIKES_ITEM\" fq-name=\"HR.LIKES.FK_LIKES_ITEM\" type=\"fk\" pk-ref=\"11\" fk-ref=\"15\"/><relation name=\"FK_ORDERS_ITEM\" fq-name=\"HR.ORDERS.FK_ORDERS_ITEM\" type=\"fk\" pk-ref=\"11\" fk-ref=\"17\"/><relation name=\"EMP_JOB_FK\" fq-name=\"HR.EMPLOYEES.EMP_JOB_FK\" type=\"fk\" pk-ref=\"13\" fk-ref=\"7\"/><relation name=\"JHIST_JOB_FK\" fq-name=\"HR.JOB_HISTORY.JHIST_JOB_FK\" type=\"fk\" pk-ref=\"13\" fk-ref=\"14\"/><relation name=\"DEPT_LOC_FK\" fq-name=\"HR.DEPARTMENTS.DEPT_LOC_FK\" type=\"fk\" pk-ref=\"16\" fk-ref=\"3\"/><relation name=\"FK_REVIEW_ORDERS\" fq-name=\"HR.REVIEW.FK_REVIEW_ORDERS\" type=\"fk\" pk-ref=\"17\" fk-ref=\"18\"/><relation name=\"FK_ITEM_SAVINGLEVEL\" fq-name=\"HR.ITEM.FK_ITEM_SAVINGLEVEL\" type=\"fk\" pk-ref=\"20\" fk-ref=\"11\"/><relation name=\"FK_USERS_SAVINGLEVEL\" fq-name=\"HR.USERS.FK_USERS_SAVINGLEVEL\" type=\"fk\" pk-ref=\"20\" fk-ref=\"26\"/><relation name=\"FK_ORDER_MEMBER\" fq-name=\"HR.TBL_ORDER.FK_ORDER_MEMBER\" type=\"fk\" pk-ref=\"21\" fk-ref=\"22\"/><relation name=\"FK_PAY_ORDER\" fq-name=\"HR.TBL_PAY.FK_PAY_ORDER\" type=\"fk\" pk-ref=\"22\" fk-ref=\"23\"/><relation name=\"FK_DORANBOARD_USERS\" fq-name=\"HR.DORANBOARD.FK_DORANBOARD_USERS\" type=\"fk\" pk-ref=\"26\" fk-ref=\"4\"/><relation name=\"FK_INQUIRE_USERS\" fq-name=\"HR.INQUIRE_BOARD.FK_INQUIRE_USERS\" type=\"fk\" pk-ref=\"26\" fk-ref=\"10\"/><relation name=\"FK_LIKES_USERS\" fq-name=\"HR.LIKES.FK_LIKES_USERS\" type=\"fk\" pk-ref=\"26\" fk-ref=\"15\"/><relation name=\"FK_ORDERS_USERS\" fq-name=\"HR.ORDERS.FK_ORDERS_USERS\" type=\"fk\" pk-ref=\"26\" fk-ref=\"17\"/><relation name=\"FK_SAVING_USERS\" fq-name=\"HR.SAVING.FK_SAVING_USERS\" type=\"fk\" pk-ref=\"26\" fk-ref=\"19\"/></relations></diagram>"
+					}
+				}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}

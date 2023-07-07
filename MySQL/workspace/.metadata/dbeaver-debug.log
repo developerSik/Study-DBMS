@@ -1,0 +1,1061 @@
+2023-04-26 20:47:00.437 - Create display
+2023-04-26 20:47:00.539 - DBeaver 21.3.5.202202200327 is starting
+2023-04-26 20:47:00.540 - OS: Windows 10 10.0 (amd64)
+2023-04-26 20:47:00.540 - Java version: 11.0.12 by Eclipse Foundation (64bit)
+2023-04-26 20:47:00.540 - Install path: 'C:\web_1900_jss\dbms\mysql\resource\dbeaver'
+2023-04-26 20:47:00.540 - Instance path: 'file:/C:/web_1900_jss/dbms/mysql/workspace/'
+2023-04-26 20:47:00.540 - Memory available 64Mb/1024Mb
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.76.202202200327]
+2023-04-26 20:47:00.565 - Starting RMI server at 22090
+2023-04-26 20:47:00.636 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.16.300.v20211102-0939]
+> Start Eclipse 응용 프로그램 서비스 [org.eclipse.e4.core.services 2.3.100.v20210910-0640]
+> Start Eclipse 사용자 인터페이스 응용 프로그램 서비스 [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start EMF XML/XMI 퍼시스턴스 [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse CSS SWT 테마 지원 [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.4.400.v20211102-0453]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.15.300.v20211102-1716]
+> Start Eclipse 바인딩 지원 [org.eclipse.e4.ui.bindings 0.13.100.v20210722-1426]
+> Start Eclipse 의존성 삽입 확장 [org.eclipse.e4.core.di.extensions 0.17.100.v20210910-0640]
+> Start Eclipse CSS SWT 지원 [org.eclipse.e4.ui.css.swt 0.14.400.v20211026-1534]
+> Start Java Native Access [com.sun.jna 5.8.0.v20210503-0343]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.91.202202200327]
+2023-04-26 20:47:02.783 - Configure workbench window
+> Start 도움말 시스템 코어 [org.eclipse.help 3.9.100.v20210721-0601]
+2023-04-26 20:47:02.861 - Create actions
+2023-04-26 20:47:02.864 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-04-26 20:47:02.864 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-04-26 20:47:02.864 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-04-26 20:47:03.291 - Initialize workbench window
+2023-04-26 20:47:03.296 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.14.300.v20210913-0815]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.16.300.v20211119-1032]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.76.202202200327]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.66.202202200327]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.76.202202200327]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.9.200.v20211013-1022]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.6.1000.v20201020-1107]
+> Start Equinox Java 인증 및 권한 부여 서비스 (JAAS) [org.eclipse.equinox.security 1.3.800.v20211021-1418]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.4.0.v20210426-0838]
+> Start 인터넷 연결 관리 [org.eclipse.core.net 1.3.1100.v20210424-0724]
+2023-04-26 20:47:04.838 - Loading user drivers configuration from 'C:\web_1900_jss\dbms\mysql\workspace\.metadata\.plugins\org.jkiss.dbeaver.core\drivers.xml'
+2023-04-26 20:47:04.842 - Total database drivers: 98 (98)
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.113.202202200327]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.82.202202200327]
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20220207122412]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20220207122412]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.36.202202200327]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.36.202202200327]
+2023-04-26 20:47:05.489 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/user.sql)
+> Start 콘솔 [org.eclipse.ui.console 3.11.100.v20210721-1355]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.18.300.v20211117-1829]
+2023-04-26 20:47:07.663 - Open [https://dbeaver.io/product/version.xml]
+2023-04-26 20:47:08.650 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-26 20:47:08.650 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/board.sql)
+2023-04-26 20:47:08.650 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-26 20:47:08.650 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-26 20:47:08.651 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-26 20:47:08.651 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-26 20:47:08.651 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-26 20:47:08.651 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-26 20:47:08.651 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/user.sql)
+2023-04-26 20:47:11.062 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-26 22:04:34.673 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 00:54:21.703 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 02:35:42.526 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 03:07:04.700 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 03:23:22.418 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 12:24:28.504 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 12:26:48.856 - No active connection
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.67.202202200327]
+2023-04-27 12:27:00.426 - Connect with 'localhost' (mysql8-187bc00512a-6a5d05e7f940095e)
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.161.202202200327]
+2023-04-27 12:27:00.459 - Execution context opened (localhost; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.100.202202200327]
+2023-04-27 12:27:00.653 - Execution context opened (localhost; Metadata; 1)
+2023-04-27 12:27:00.718 - Connected (mysql8-187bc00512a-6a5d05e7f940095e, MySQL Connector/J [mysql-connector-j-8.0.31 (Revision: 0c86fc148d567b62266c2302bdad0f1e7a7e4eba)])
+2023-04-27 12:27:04.035 - No active connection
+2023-04-27 12:27:07.122 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/user.sql)
+2023-04-27 12:27:07.135 - Execution context opened (localhost; SQLEditor <user.sql>; 2)
+2023-04-27 13:47:00.450 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 15:43:20.582 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 16:48:07.031 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 17:12:07.785 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 18:07:14.536 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 22:06:20.827 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 22:08:51.514 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/board.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-27 22:18:39.544 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-27 22:18:42.181 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-27 22:45:55.359 - System suspend detected! Reinitialize all remote connections.
+2023-04-27 23:21:23.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 00:10:13.882 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 02:04:01.607 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 02:21:53.889 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 12:34:02.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 12:37:32.568 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 12:58:12.858 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 12:59:59.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 15:32:09.737 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 16:30:05.869 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 17:13:04.508 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 18:25:12.956 - Error getting transaction isolation level
+com.mysql.cj.jdbc.exceptions.CommunicationsException: The last packet successfully received from the server was 107,892,319 milliseconds ago. The last packet sent successfully to the server was 107,892,319 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.getTransactionIsolation(ConnectionImpl.java:1226)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.lambda$1(JDBCExecutionContext.java:284)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.lambda$0(JDBCExecutionContext.java:282)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:423)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:220)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: The last packet successfully received from the server was 107,892,319 milliseconds ago. The last packet sent successfully to the server was 107,892,319 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:628)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:683)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:155)
+	at com.mysql.cj.NativeSession.queryServerVariable(NativeSession.java:597)
+	at com.mysql.cj.jdbc.ConnectionImpl.getTransactionIsolation(ConnectionImpl.java:1209)
+	... 7 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.base/java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.base/java.net.SocketOutputStream.write(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flush(Unknown Source)
+	at com.mysql.cj.protocol.a.SimplePacketSender.send(SimplePacketSender.java:55)
+	at com.mysql.cj.protocol.a.TimeTrackingPacketSender.send(TimeTrackingPacketSender.java:50)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:619)
+	... 11 more
+2023-04-28 18:25:31.620 - Invalidate datasource 'localhost' connections...
+2023-04-28 18:25:31.683 - Execution context closed (localhost, 0)
+2023-04-28 18:25:31.698 - Can't set transaction isolation level
+java.sql.SQLException: Transaction isolation level NONE not supported by MySQL
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:67)
+	at com.mysql.cj.jdbc.ConnectionImpl.setTransactionIsolation(ConnectionImpl.java:2223)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:119)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.invalidateContext(JDBCExecutionContext.java:248)
+	at org.jkiss.dbeaver.runtime.jobs.InvalidateJob.invalidateDataSource(InvalidateJob.java:145)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:210)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadTreeItems(DBNDatabaseNode.java:595)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadChildren(DBNDatabaseNode.java:464)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.reloadChildren(DBNDatabaseNode.java:831)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadChildren(DBNDatabaseNode.java:501)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.reloadChildren(DBNDatabaseNode.java:831)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.refreshNodeContent(DBNDatabaseNode.java:394)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.refreshNode(DBNDatabaseNode.java:369)
+	at org.jkiss.dbeaver.ui.navigator.actions.NavigatorHandlerRefresh$1.run(NavigatorHandlerRefresh.java:188)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-28 18:25:31.762 - Execution context closed (localhost, 1)
+2023-04-28 18:25:31.826 - Execution context closed (localhost, 2)
+2023-04-28 18:25:31.843 - Operation failed. Retry count remains = 1
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [08S01]: The last packet successfully received from the server was 107,826,418 milliseconds ago. The last packet sent successfully to the server was 107,826,418 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.executeStatement(JDBCPreparedStatementImpl.java:208)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCObjectCache.loadObjects(JDBCObjectCache.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCObjectCache.getAllObjects(JDBCObjectCache.java:73)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCObjectCache.getAllObjects(JDBCObjectCache.java:1)
+	at org.jkiss.dbeaver.model.struct.cache.AbstractObjectCache.getTypedObjects(AbstractObjectCache.java:86)
+	at org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog.getTables(MySQLCatalog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.extractPropertyValue(DBNDatabaseNode.java:960)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode$PropertyValueReader.run(DBNDatabaseNode.java:1032)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode$PropertyValueReader.run(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadTreeItems(DBNDatabaseNode.java:595)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadChildren(DBNDatabaseNode.java:464)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.reloadChildren(DBNDatabaseNode.java:831)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadChildren(DBNDatabaseNode.java:501)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.reloadChildren(DBNDatabaseNode.java:831)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.refreshNodeContent(DBNDatabaseNode.java:394)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.refreshNode(DBNDatabaseNode.java:369)
+	at org.jkiss.dbeaver.ui.navigator.actions.NavigatorHandlerRefresh$1.run(NavigatorHandlerRefresh.java:188)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: The last packet successfully received from the server was 107,826,418 milliseconds ago. The last packet sent successfully to the server was 107,826,418 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.execute(JDBCPreparedStatementImpl.java:261)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.executeStatement(JDBCPreparedStatementImpl.java:205)
+	... 23 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: The last packet successfully received from the server was 107,826,418 milliseconds ago. The last packet sent successfully to the server was 107,826,418 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:628)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:683)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendQueryPacket(NativeProtocol.java:1051)
+	at com.mysql.cj.NativeSession.execSQL(NativeSession.java:665)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:893)
+	... 26 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.base/java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.base/java.net.SocketOutputStream.write(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flush(Unknown Source)
+	at com.mysql.cj.protocol.a.SimplePacketSender.send(SimplePacketSender.java:55)
+	at com.mysql.cj.protocol.a.TimeTrackingPacketSender.send(TimeTrackingPacketSender.java:50)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:619)
+	... 30 more
+2023-04-28 18:25:50.807 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-28 18:25:50.822 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/board.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-28 18:25:50.823 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-28 18:25:52.362 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/board.sql)
+2023-04-28 18:25:56.159 - No active connection
+2023-04-28 18:25:59.826 - No active connection. Action is in disabled state.
+2023-04-28 18:26:04.621 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/board.sql)
+2023-04-28 18:26:04.621 - Execution context opened (localhost; SQLEditor <board.sql>; 3)
+2023-04-28 18:27:59.906 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-28 18:27:59.906 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-28 18:27:59.906 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-28 18:27:59.907 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-28 18:27:59.907 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-28 18:27:59.907 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-28 18:27:59.907 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-28 21:18:52.459 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-28 21:18:53.939 - No active connection
+2023-04-28 21:18:57.752 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/report.sql)
+2023-04-28 21:18:57.754 - Execution context opened (localhost; SQLEditor <report.sql>; 4)
+2023-04-28 21:18:58.951 - SQL Error [1824] [HY000]: Failed to open the referenced table 'tbl_use'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1824] [HY000]: Failed to open the referenced table 'tbl_use'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: Failed to open the referenced table 'tbl_use'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-28 21:19:04.108 - SQL Error [1824] [HY000]: Failed to open the referenced table 'tbl_use'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1824] [HY000]: Failed to open the referenced table 'tbl_use'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: Failed to open the referenced table 'tbl_use'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-28 21:20:50.710 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-28 21:20:51.947 - No active connection
+2023-04-28 21:20:55.363 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/use.sql)
+2023-04-28 21:20:55.368 - Execution context opened (localhost; SQLEditor <use.sql>; 5)
+2023-04-28 21:20:59.029 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-28 21:20:59.029 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-28 21:20:59.029 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-28 21:20:59.029 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-28 21:20:59.029 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-28 21:20:59.030 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-28 21:20:59.030 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-28 21:20:59.030 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-28 21:20:59.030 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-28 21:20:59.030 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-28 21:21:14.514 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-28 21:47:43.983 - SQL Error [1050] [42S01]: Table 'tbl_report' already exists
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1050] [42S01]: Table 'tbl_report' already exists
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'tbl_report' already exists
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-28 21:48:01.355 - Object stat > 100%!
+2023-04-28 21:48:01.888 - Object stat > 100%!
+2023-04-28 21:48:02.282 - Object stat > 100%!
+2023-04-28 21:48:02.579 - Object stat > 100%!
+2023-04-28 21:48:03.039 - Object stat > 100%!
+2023-04-28 21:48:03.323 - Object stat > 100%!
+2023-04-28 21:48:03.331 - Object stat > 100%!
+2023-04-28 21:48:03.843 - Object stat > 100%!
+2023-04-28 21:48:03.845 - Object stat > 100%!
+2023-04-28 21:48:03.845 - Object stat > 100%!
+2023-04-28 21:48:03.857 - Object stat > 100%!
+2023-04-28 21:48:04.044 - Object stat > 100%!
+2023-04-28 21:48:04.247 - Object stat > 100%!
+2023-04-28 21:48:04.440 - Object stat > 100%!
+2023-04-28 21:48:04.506 - Object stat > 100%!
+2023-04-28 21:48:04.510 - Object stat > 100%!
+2023-04-28 21:48:05.119 - Object stat > 100%!
+2023-04-28 21:48:05.258 - Object stat > 100%!
+2023-04-28 21:48:07.357 - Object stat > 100%!
+2023-04-28 21:48:07.391 - Object stat > 100%!
+2023-04-28 21:48:07.482 - Object stat > 100%!
+2023-04-28 21:48:08.897 - Object stat > 100%!
+2023-04-28 21:48:09.734 - Object stat > 100%!
+2023-04-28 21:48:09.797 - Object stat > 100%!
+2023-04-28 21:48:18.130 - Object stat > 100%!
+2023-04-28 21:48:39.163 - Object stat > 100%!
+2023-04-28 21:50:02.114 - Object stat > 100%!
+2023-04-28 21:50:02.121 - Object stat > 100%!
+2023-04-28 22:13:18.370 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 22:15:42.608 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 23:01:29.074 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 23:03:04.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-28 23:39:38.297 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 19:08:19.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 19:36:31.747 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 20:56:13.607 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 21:16:00.576 - Object stat > 100%!
+2023-04-29 21:16:02.201 - Object stat > 100%!
+2023-04-29 21:16:02.772 - Object stat > 100%!
+2023-04-29 21:16:03.011 - Object stat > 100%!
+2023-04-29 21:16:03.106 - Object stat > 100%!
+2023-04-29 21:16:03.331 - Object stat > 100%!
+2023-04-29 21:16:03.410 - Object stat > 100%!
+2023-04-29 21:16:03.845 - Object stat > 100%!
+2023-04-29 21:16:03.917 - Object stat > 100%!
+2023-04-29 21:16:04.123 - Object stat > 100%!
+2023-04-29 21:16:04.236 - Object stat > 100%!
+2023-04-29 21:16:05.267 - Object stat > 100%!
+2023-04-29 21:16:05.536 - Object stat > 100%!
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-29 21:16:25.206 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-29 21:20:40.549 - Connect with 'localhost' (mysql8-187996ea098-b336549741189ca)
+2023-04-29 21:20:40.550 - Execution context opened (localhost; Main; 6)
+2023-04-29 21:20:40.567 - Execution context opened (localhost; Metadata; 7)
+2023-04-29 21:20:40.591 - Connected (mysql8-187996ea098-b336549741189ca, MySQL Connector/J [mysql-connector-j-8.0.31 (Revision: 0c86fc148d567b62266c2302bdad0f1e7a7e4eba)])
+2023-04-29 21:23:49.708 - Execution context opened (localhost; SQLEditor <board.sql>; 8)
+2023-04-29 21:28:23.289 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-04-29 21:28:23.289 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-04-29 21:28:23.289 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-04-29 21:28:23.289 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-04-29 21:28:23.289 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-04-29 21:28:49.386 - Object stat > 100%!
+2023-04-29 21:28:49.716 - Object stat > 100%!
+2023-04-29 21:28:49.781 - Object stat > 100%!
+2023-04-29 21:28:50.055 - Object stat > 100%!
+2023-04-29 21:28:50.062 - Object stat > 100%!
+2023-04-29 21:28:50.173 - Object stat > 100%!
+2023-04-29 21:28:53.721 - Object stat > 100%!
+2023-04-29 21:28:53.729 - Object stat > 100%!
+2023-04-29 21:28:53.777 - Object stat > 100%!
+2023-04-29 21:28:55.627 - Object stat > 100%!
+2023-04-29 21:28:57.875 - Object stat > 100%!
+2023-04-29 21:28:57.938 - Object stat > 100%!
+2023-04-29 21:29:16.860 - SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-29 21:29:36.721 - Object stat > 100%!
+2023-04-29 21:29:36.721 - Object stat > 100%!
+2023-04-29 21:29:37.319 - Object stat > 100%!
+2023-04-29 21:29:38.015 - Object stat > 100%!
+2023-04-29 21:29:58.259 - Object stat > 100%!
+2023-04-29 21:30:03.419 - Object stat > 100%!
+2023-04-29 21:30:16.488 - Object stat > 100%!
+2023-04-29 21:30:17.201 - Object stat > 100%!
+2023-04-29 21:30:17.237 - Object stat > 100%!
+2023-04-29 21:30:19.127 - Object stat > 100%!
+2023-04-29 21:30:20.000 - Object stat > 100%!
+2023-04-29 21:30:24.698 - Object stat > 100%!
+2023-04-29 21:30:36.503 - Object stat > 100%!
+2023-04-29 21:30:37.513 - Object stat > 100%!
+2023-04-29 21:30:37.513 - Object stat > 100%!
+2023-04-29 21:30:37.781 - Object stat > 100%!
+2023-04-29 21:30:37.781 - Object stat > 100%!
+2023-04-29 21:30:37.812 - Object stat > 100%!
+2023-04-29 21:30:38.191 - Object stat > 100%!
+2023-04-29 21:30:39.043 - Object stat > 100%!
+2023-04-29 21:30:41.659 - Object stat > 100%!
+2023-04-29 21:30:41.678 - Object stat > 100%!
+2023-04-29 21:30:41.726 - Object stat > 100%!
+2023-04-29 21:30:42.870 - Object stat > 100%!
+2023-04-29 21:30:43.739 - Object stat > 100%!
+2023-04-29 21:30:43.807 - Object stat > 100%!
+2023-04-29 21:31:52.196 - SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_use`, CONSTRAINT `tbl_use_ibfk_1` FOREIGN KEY (`user_number`) REFERENCES `tbl_user` (`user_number`))
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_use`, CONSTRAINT `tbl_use_ibfk_1` FOREIGN KEY (`user_number`) REFERENCES `tbl_user` (`user_number`))
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_use`, CONSTRAINT `tbl_use_ibfk_1` FOREIGN KEY (`user_number`) REFERENCES `tbl_user` (`user_number`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-29 21:32:16.628 - Object stat > 100%!
+2023-04-29 21:32:17.152 - Object stat > 100%!
+2023-04-29 21:32:20.577 - Object stat > 100%!
+2023-04-29 21:32:20.631 - Object stat > 100%!
+2023-04-29 21:32:55.948 - Object stat > 100%!
+2023-04-29 21:32:56.309 - Object stat > 100%!
+2023-04-29 21:32:56.356 - Object stat > 100%!
+2023-04-29 21:32:56.498 - Object stat > 100%!
+2023-04-29 21:32:57.065 - Object stat > 100%!
+2023-04-29 21:32:57.143 - Object stat > 100%!
+2023-04-29 21:32:57.254 - Object stat > 100%!
+2023-04-29 21:32:57.971 - Object stat > 100%!
+2023-04-29 21:32:58.045 - Object stat > 100%!
+2023-04-29 21:32:58.139 - Object stat > 100%!
+2023-04-29 21:32:58.432 - Object stat > 100%!
+2023-04-29 21:32:58.447 - Object stat > 100%!
+2023-04-29 21:33:13.742 - SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-29 21:33:18.449 - Object stat > 100%!
+2023-04-29 21:33:31.274 - Object stat > 100%!
+2023-04-29 21:33:31.477 - Object stat > 100%!
+2023-04-29 21:33:31.556 - Object stat > 100%!
+2023-04-29 21:33:34.014 - Object stat > 100%!
+2023-04-29 21:33:34.038 - Object stat > 100%!
+2023-04-29 21:33:34.101 - Object stat > 100%!
+2023-04-29 21:33:35.112 - Object stat > 100%!
+2023-04-29 21:33:35.787 - Object stat > 100%!
+2023-04-29 21:33:35.850 - Object stat > 100%!
+2023-04-29 21:33:49.722 - Object stat > 100%!
+2023-04-29 21:33:52.019 - Object stat > 100%!
+2023-04-29 21:40:35.124 - Object stat > 100%!
+2023-04-29 21:41:00.883 - Object stat > 100%!
+2023-04-29 21:41:00.947 - Object stat > 100%!
+2023-04-29 21:41:03.743 - Object stat > 100%!
+2023-04-29 21:41:03.950 - Object stat > 100%!
+2023-04-29 21:41:04.110 - Object stat > 100%!
+2023-04-29 21:41:04.175 - Object stat > 100%!
+2023-04-29 21:41:06.970 - Object stat > 100%!
+2023-04-29 21:41:07.284 - Object stat > 100%!
+2023-04-29 21:41:07.284 - Object stat > 100%!
+2023-04-29 21:41:07.329 - Object stat > 100%!
+2023-04-29 21:41:09.949 - Object stat > 100%!
+2023-04-29 21:41:10.013 - Object stat > 100%!
+2023-04-29 21:45:18.800 - Object stat > 100%!
+2023-04-29 21:47:37.278 - Object stat > 100%!
+2023-04-29 21:49:20.081 - Object stat > 100%!
+2023-04-29 21:49:28.333 - Object stat > 100%!
+2023-04-29 21:49:29.231 - Object stat > 100%!
+2023-04-29 21:50:50.933 - Object stat > 100%!
+2023-04-29 21:50:50.970 - Object stat > 100%!
+2023-04-29 21:50:51.226 - Object stat > 100%!
+2023-04-29 21:50:51.273 - Object stat > 100%!
+2023-04-29 21:51:00.802 - Object stat > 100%!
+2023-04-29 21:52:34.101 - Object stat > 100%!
+2023-04-29 21:52:34.257 - Object stat > 100%!
+2023-04-29 21:52:34.480 - Object stat > 100%!
+2023-04-29 21:52:34.496 - Object stat > 100%!
+2023-04-29 21:52:35.097 - Object stat > 100%!
+2023-04-29 21:52:35.156 - Object stat > 100%!
+2023-04-29 21:52:40.666 - Object stat > 100%!
+2023-04-29 21:52:40.698 - Object stat > 100%!
+2023-04-29 21:59:16.513 - Object stat > 100%!
+2023-04-29 22:06:04.988 - Object stat > 100%!
+2023-04-29 22:07:30.466 - Object stat > 100%!
+2023-04-29 22:07:38.794 - Object stat > 100%!
+2023-04-29 22:08:07.318 - SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-29 22:08:11.268 - Object stat > 100%!
+2023-04-29 22:08:11.712 - Object stat > 100%!
+2023-04-29 22:08:12.124 - Object stat > 100%!
+2023-04-29 22:08:12.165 - Object stat > 100%!
+2023-04-29 22:08:12.483 - Object stat > 100%!
+2023-04-29 22:08:12.578 - Object stat > 100%!
+2023-04-29 22:08:12.668 - Object stat > 100%!
+2023-04-29 22:08:12.733 - Object stat > 100%!
+2023-04-29 22:08:12.803 - Object stat > 100%!
+2023-04-29 22:08:13.138 - Object stat > 100%!
+2023-04-29 22:08:41.921 - Object stat > 100%!
+2023-04-29 22:09:25.447 - Object stat > 100%!
+2023-04-29 22:10:40.329 - Object stat > 100%!
+2023-04-29 22:13:25.863 - Object stat > 100%!
+2023-04-29 22:14:38.580 - Object stat > 100%!
+2023-04-29 22:40:36.647 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 23:12:41.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-29 23:12:43.628 - Object stat > 100%!
+2023-04-30 00:48:33.436 - Object stat > 100%!
+2023-04-30 00:48:35.975 - Object stat > 100%!
+2023-04-30 00:48:36.432 - Object stat > 100%!
+2023-04-30 00:48:36.495 - Object stat > 100%!
+2023-04-30 00:48:36.700 - Object stat > 100%!
+2023-04-30 00:48:37.204 - Object stat > 100%!
+2023-04-30 00:48:37.701 - Object stat > 100%!
+2023-04-30 00:48:37.709 - Object stat > 100%!
+2023-04-30 00:48:38.420 - Object stat > 100%!
+2023-04-30 00:48:38.530 - Object stat > 100%!
+2023-04-30 00:48:38.625 - Object stat > 100%!
+2023-04-30 00:48:39.412 - Object stat > 100%!
+2023-04-30 00:48:39.492 - Object stat > 100%!
+2023-04-30 00:48:40.972 - Object stat > 100%!
+2023-04-30 00:48:42.455 - Object stat > 100%!
+2023-04-30 00:48:42.543 - Object stat > 100%!
+2023-04-30 00:48:42.842 - Object stat > 100%!
+2023-04-30 00:48:46.357 - Object stat > 100%!
+2023-04-30 02:22:51.474 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 02:27:01.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 03:42:58.212 - Object stat > 100%!
+2023-04-30 03:51:10.911 - Object stat > 100%!
+2023-04-30 03:51:11.134 - Object stat > 100%!
+2023-04-30 03:51:11.200 - Object stat > 100%!
+2023-04-30 03:51:11.221 - Object stat > 100%!
+2023-04-30 03:51:12.172 - Object stat > 100%!
+2023-04-30 03:51:13.800 - Object stat > 100%!
+2023-04-30 04:16:29.527 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 06:54:20.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 06:54:21.666 - Object stat > 100%!
+2023-04-30 07:09:23.780 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 07:58:29.607 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 07:58:30.674 - Object stat > 100%!
+2023-04-30 08:13:32.868 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 18:42:23.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 18:42:24.621 - Object stat > 100%!
+2023-04-30 18:49:49.916 - Object stat > 100%!
+2023-04-30 18:52:40.829 - Object stat > 100%!
+2023-04-30 18:52:43.959 - Object stat > 100%!
+2023-04-30 18:52:44.082 - Object stat > 100%!
+2023-04-30 18:52:44.261 - Object stat > 100%!
+2023-04-30 18:52:44.263 - Object stat > 100%!
+2023-04-30 18:52:44.282 - Object stat > 100%!
+2023-04-30 18:52:44.552 - Object stat > 100%!
+2023-04-30 18:52:44.685 - Object stat > 100%!
+2023-04-30 18:52:44.866 - Object stat > 100%!
+2023-04-30 18:52:44.878 - Object stat > 100%!
+2023-04-30 18:52:44.905 - Object stat > 100%!
+2023-04-30 19:38:30.602 - SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1452] [23000]: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`star`.`tbl_report`, CONSTRAINT `tbl_report_ibfk_2` FOREIGN KEY (`use_number`) REFERENCES `tbl_use` (`use_number`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 19:55:39.172 - SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Column 'user_number' in field list is ambiguous
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 19:55:44.725 - SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Column 'user_number' in field list is ambiguous
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:03:56.888 - SQL Error [1054] [42S22]: Unknown column 'u.use_number' in 'on clause'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1054] [42S22]: Unknown column 'u.use_number' in 'on clause'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'u.use_number' in 'on clause'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:04:07.943 - SQL Error [1052] [23000]: Column 'use_number' in field list is ambiguous
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1052] [23000]: Column 'use_number' in field list is ambiguous
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Column 'use_number' in field list is ambiguous
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:05:28.522 - SQL Error [1054] [42S22]: Unknown column 'user_name' in 'field list'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1054] [42S22]: Unknown column 'user_name' in 'field list'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'user_name' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:07:18.128 - SQL Error [1064] [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_user ur
+on ur.user_number = r.user_number and report_id = 1' at line 4
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1064] [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_user ur
+on ur.user_number = r.user_number and report_id = 1' at line 4
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_user ur
+on ur.user_number = r.user_number and report_id = 1' at line 4
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:07:28.502 - SQL Error [1064] [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'join tbl_report r tbl_user ur
+on ur.user_number = r.user_number and report_id =' at line 4
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1064] [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'join tbl_report r tbl_user ur
+on ur.user_number = r.user_number and report_id =' at line 4
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'join tbl_report r tbl_user ur
+on ur.user_number = r.user_number and report_id =' at line 4
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 20:33:45.116 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 20:35:09.500 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 20:39:09.863 - SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1052] [23000]: Column 'user_number' in field list is ambiguous
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Column 'user_number' in field list is ambiguous
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-04-30 21:13:57.525 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 21:58:20.514 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 22:03:18.387 - System suspend detected! Reinitialize all remote connections.
+2023-04-30 22:28:48.827 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 07:50:44.501 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 08:05:47.159 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 16:00:37.514 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 16:51:10.635 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 16:59:59.132 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 20:22:28.782 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 21:25:50.074 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 21:26:53.578 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 21:52:03.500 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 23:08:31.727 - System suspend detected! Reinitialize all remote connections.
+2023-05-01 23:59:07.536 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 02:20:28.610 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 14:53:42.500 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 15:11:51.592 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 17:35:50.592 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 18:29:06.411 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 22:16:29.022 - System suspend detected! Reinitialize all remote connections.
+2023-05-02 23:04:32.135 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 03:07:49.713 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 03:29:48.887 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 11:10:15.607 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 11:41:10.470 - Invalidate datasource 'localhost' connections...
+2023-05-03 11:41:10.534 - Execution context closed (localhost, 0)
+2023-05-03 11:41:10.558 - Can't set transaction isolation level
+java.sql.SQLException: Transaction isolation level NONE not supported by MySQL
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:67)
+	at com.mysql.cj.jdbc.ConnectionImpl.setTransactionIsolation(ConnectionImpl.java:2223)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:119)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.invalidateContext(JDBCExecutionContext.java:248)
+	at org.jkiss.dbeaver.runtime.jobs.InvalidateJob.invalidateDataSource(InvalidateJob.java:145)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:210)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-03 11:41:10.615 - Execution context closed (localhost, 1)
+2023-05-03 11:41:10.687 - Execution context closed (localhost, 2)
+2023-05-03 11:41:10.751 - Execution context closed (localhost, 3)
+2023-05-03 11:41:10.815 - Execution context closed (localhost, 4)
+2023-05-03 11:41:10.879 - Execution context closed (localhost, 5)
+2023-05-03 11:41:10.879 - Operation failed. Retry count remains = 1
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [08S01]: The last packet successfully received from the server was 143,420,652 milliseconds ago. The last packet sent successfully to the server was 143,420,652 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: The last packet successfully received from the server was 143,420,652 milliseconds ago. The last packet sent successfully to the server was 143,420,652 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:1402)
+	at com.mysql.cj.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:1387)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:677)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: The last packet successfully received from the server was 143,420,652 milliseconds ago. The last packet sent successfully to the server was 143,420,652 milliseconds ago. is longer than the server configured value of 'interactive_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:628)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:683)
+	at com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:155)
+	at com.mysql.cj.NativeSession.queryServerVariable(NativeSession.java:597)
+	at com.mysql.cj.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:1394)
+	... 17 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.base/java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.base/java.net.SocketOutputStream.write(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flush(Unknown Source)
+	at com.mysql.cj.protocol.a.SimplePacketSender.send(SimplePacketSender.java:55)
+	at com.mysql.cj.protocol.a.TimeTrackingPacketSender.send(TimeTrackingPacketSender.java:50)
+	at com.mysql.cj.protocol.a.NativeProtocol.send(NativeProtocol.java:619)
+	... 21 more
+2023-05-03 11:42:55.296 - SQL Error [1062] [23000]: Duplicate entry 'example3@naver.com' for key 'tbl_user.user_id'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1062] [23000]: Duplicate entry 'example3@naver.com' for key 'tbl_user.user_id'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'example3@naver.com' for key 'tbl_user.user_id'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-05-03 12:00:34.349 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 15:17:58.608 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 15:28:53.399 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 15:55:25.882 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 17:42:19.704 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 18:08:06.518 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 18:57:22.500 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 20:16:08.237 - SQL Error [1054] [42S22]: Unknown column 'user_contet' in 'field list'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1054] [42S22]: Unknown column 'user_contet' in 'field list'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:513)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:444)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:431)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:816)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3501)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:118)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:171)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:116)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:4821)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'user_contet' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	... 12 more
+2023-05-03 21:37:17.122 - System suspend detected! Reinitialize all remote connections.
+2023-05-03 22:12:03.606 - System suspend detected! Reinitialize all remote connections.
+2023-05-04 18:57:19.500 - System suspend detected! Reinitialize all remote connections.
+2023-05-04 18:57:40.150 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-05-04 18:57:40.151 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-05-04 18:57:40.151 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-05-04 18:57:40.151 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-05-04 18:57:40.151 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-05-04 18:57:40.152 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-05-04 18:57:40.153 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-05-04 18:57:40.153 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-05-04 18:57:40.153 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-05-04 18:57:40.153 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-05-04 18:57:43.623 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-05-04 18:57:43.623 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-05-04 18:57:43.623 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-05-04 18:57:43.623 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-05-04 18:57:43.623 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-05-04 18:57:43.624 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/answer.sql)
+2023-05-04 18:57:43.624 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/file.sql)
+2023-05-04 18:57:43.624 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/pet.sql)
+2023-05-04 18:57:43.624 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/quest.sql)
+2023-05-04 18:57:43.624 - Datasource mysql8-187b3ce5f77-419681dbe230070f not found in project star (/star/Scripts/review.sql)
+2023-05-04 18:57:45.136 - Execution context closed (localhost, 8)
+2023-05-04 18:57:45.197 - Execution context closed (localhost, 4)
+2023-05-04 18:57:45.245 - Execution context closed (localhost, 5)
+2023-05-04 18:57:45.278 - Execution context closed (localhost, 3)
+2023-05-04 18:57:45.448 - Execution context closed (localhost, 2)
+2023-05-04 18:57:45.709 - DBeaver is stopping
+2023-05-04 18:57:45.710 - Stop RMI server
+2023-05-04 18:57:45.713 - RMI controller has been stopped
+2023-05-04 18:57:45.775 - DBeaver shutdown completed
